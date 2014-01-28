@@ -1,0 +1,2 @@
+# Python bootcamp 20140128
+This contains things I learned yesterday.
