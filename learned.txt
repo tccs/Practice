@@ -2,3 +2,4 @@
 This contains things I learned yesterday.
 
 I learned about python Libraries.
+I learned about arrays
